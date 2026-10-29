@@ -1,0 +1,6 @@
+{
+  "name": "Screen Video Transcriber",
+  "description": "Live audio transcriber for laptop screen video playback with English and Hindi language detection, AI transcription, and export to text files for notes.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
